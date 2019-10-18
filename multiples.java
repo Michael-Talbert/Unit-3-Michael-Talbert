@@ -19,8 +19,9 @@ public class multiples{
       }
       for(int i = 0; i*startNum <= max; i++){
           System.out.print((i*startNum)+" ");
-          if((i%5)==0)
+          if((i%5)==0){
           System.out.println();
+        }
       }
     }
 }
