@@ -19,11 +19,7 @@ public class rockPaperScissors{
       String n ="n";
 
       //jokes
-      if (name.equalsIgnoreCase("69")){
-        System.out.println("nice");
-      }else if (name.equalsIgnoreCase("Richard")){
-        System.out.println("ha Dick");
-      }else if (name.equalsIgnoreCase("Michael")){
+      if (name.equalsIgnoreCase("Michael")){
         System.out.println("We should play heads up 7 up Mr.George.");
       }
       while (keepPlaying){
